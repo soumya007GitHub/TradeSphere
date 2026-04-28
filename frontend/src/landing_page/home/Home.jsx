@@ -11,8 +11,6 @@ import Footer from "../Footer.jsx";
 
 const Home = () => {
     return (
-        <>
-            <NavBar />
             <div className='px-5 md:px-10 lg:px-48 mt-20'>
             <Hero />
             <Awards />
@@ -21,8 +19,6 @@ const Home = () => {
             <Education />
             <OpenAccount />
             </div>
-            <Footer />
-        </>
     )
 }
 

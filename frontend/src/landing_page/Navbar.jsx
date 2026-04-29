@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Navbar = () => {
   return (
-    <nav className="bg-white fixed w-full z-20 top-0 border-b border-gray-200 px-5 md:px-10 lg:px-48 text-gray-700">
+    <nav className="bg-white fixed w-full z-20 top-0 border-b border-gray-300 px-5 md:px-10 lg:px-48 text-gray-700">
       <div className="max-w-screen flex flex-wrap items-center justify-between mx-auto p-4">
         <Link to="/" className="flex items-center space-x-3 rtl:space-x-reverse">
           <img src="media/logo.svg" className="h-5" alt="TradeSphere Logo" />

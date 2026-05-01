@@ -11,7 +11,7 @@ const BuyActionWindow = ({ uid }) => {
 
   const handleBuyClick = async () => {
     try {
-      await axios.post("http://localhost:8080/newOrder", {
+      await axios.post("http://18.60.153.239:8080/newOrder", {
         name: uid,
         qty: stockQuantity,
         price: stockPrice,

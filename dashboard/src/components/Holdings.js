@@ -6,7 +6,7 @@ const Holdings = () => {
   const [allHoldings, setAllHoldings] = useState([]);
 
   useEffect(() => {
-    axios.get("http://localhost:8080/allholdings").then((res) => {
+    axios.get("http://18.60.153.239:8080/allholdings").then((res) => {
       setAllHoldings(res.data);
     });
   }, []);

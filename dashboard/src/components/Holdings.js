@@ -6,7 +6,7 @@ const Holdings = () => {
   const [allHoldings, setAllHoldings] = useState([]);
 
   useEffect(() => {
-    axios.get("http://18.60.153.239/allholdings").then((res) => {
+    axios.get("https://18.60.45.98/allholdings").then((res) => {
       setAllHoldings(res.data);
     });
   }, []);

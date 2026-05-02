@@ -6,7 +6,7 @@ TradeSphere is a full-stack stock trading and portfolio management platform insp
 
 ## Frontend
 
-![React](https://skillicons.dev/icons?i=react) ![Vite](https://skillicons.dev/icons?i=vite) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![Chart.js](https://cdn.simpleicons.org/chartdotjs/FF6384)
+![React](https://skillicons.dev/icons?i=react) ![Vite](https://skillicons.dev/icons?i=vite) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="40"/>
 
 ---
 

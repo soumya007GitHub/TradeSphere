@@ -4,15 +4,21 @@ TradeSphere is a full-stack stock trading and portfolio management platform insp
 
 ---
 
+Live Links
+Frontend: https://main.dninyf4swx1na.amplifyapp.com/
+Dashboard: https://main.d10g341vxf504s.amplifyapp.com/
+
+---
+
 ## Frontend
 
-![React](https://skillicons.dev/icons?i=react) ![Vite](https://skillicons.dev/icons?i=vite) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="40"/>
+![React](https://skillicons.dev/icons?i=react) ![Vite](https://skillicons.dev/icons?i=vite) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Babel](https://skillicons.dev/icons?i=babel) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="40"/>
 
 ---
 
 ## Backend
 
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express.js](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express.js](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 

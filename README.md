@@ -4,6 +4,51 @@ TradeSphere is a full-stack stock trading and portfolio management platform insp
 
 ---
 
+## Frontend
+
+### React.js
+![React](https://skillicons.dev/icons?i=react)
+
+### Vite
+![Vite](https://skillicons.dev/icons?i=vite)
+
+### JavaScript
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+
+### Tailwind CSS
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
+
+### Chart.js
+![Chart.js](https://cdn.simpleicons.org/chartdotjs/FF6384)
+
+---
+
+## Backend
+
+### Node.js
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+
+### Express.js
+![Express.js](https://skillicons.dev/icons?i=express)
+
+### MongoDB
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+### MongoDB Atlas
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Mongoose
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
+
+---
+
+## Deployment
+
+### AWS (EC2 / Amplify / Cloud Services)
+![AWS](https://skillicons.dev/icons?i=aws)
+
+---
+
 ## Project Description
 
 TradeSphere is a full-stack web application that simulates a real-world stock trading ecosystem. It consists of:

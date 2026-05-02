@@ -6,6 +6,7 @@ TradeSphere is a full-stack stock trading and portfolio management platform insp
 
 Live Links
 Frontend: https://main.dninyf4swx1na.amplifyapp.com/
+
 Dashboard: https://main.d10g341vxf504s.amplifyapp.com/
 
 ---
